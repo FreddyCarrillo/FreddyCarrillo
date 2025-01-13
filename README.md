@@ -75,5 +75,14 @@
         <span>(Ver certificado)</span>
       </a>
     </td>
+    <td align="center">
+      <span>React Native</span>
+      <br/><br/>
+      <a href="#" target="_blank">
+        <img src="./assets/images/expo.png" width = 50px/>
+        <br />
+        <span>(Ver certificado)</span>
+      </a>
+    </td>
   </tr>
 </table>
