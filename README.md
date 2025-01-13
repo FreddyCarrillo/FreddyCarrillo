@@ -11,7 +11,7 @@
 
 <picture> <img align="right" src="./assets/gifs/laptopp.gif" width = 150px></picture>
 
-<br><br>
+<br>
 
 - :computer: I am a passionate Software Engineer with experience in developing web and mobile applications. My professional focus is on creating modern, functional and scalable solutions.
 - :computer: I love to continuously learn, develop impactful projects and share my knowledge with the community, whether developing educational projects or solving technical challenges.
