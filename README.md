@@ -22,9 +22,9 @@
 <table>
   <tr>
     <td align="center">
+      <span>ReactJS</span>
+      <br/><br/>
       <a href="https://cursos.devtalles.com/certificates/zqowpwnpdz" target="_blank">
-        <span>ReactJS</span>
-        <br/>
         <img src="./assets/images/react.png" width = 50px/>
         <br />
         <span>(Ver certificado)</span>
