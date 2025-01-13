@@ -22,9 +22,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="./assets/images/react.png" width = 50px/>
-      <br />
-      <span>(Ver certificado)</span>
+      <a href="https://cursos.devtalles.com/certificates/zqowpwnpdz" target="_blank">
+        <img src="./assets/images/react.png" width = 50px/>
+        <br />
+        <span>(Ver certificado)</span>
+      </a>
     <td>
   </tr>
 </table>
