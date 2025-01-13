@@ -24,7 +24,7 @@
     <td align="center">
       <span>ReactJS</span>
       <br/><br/>
-      <a href="https://cursos.devtalles.com/certificates/zqowpwnpdz" target="_blank">
+      <a href="#" target="_blank">
         <img src="./assets/images/react.png" width = 50px/>
         <br />
         <span>(Ver certificado)</span>
@@ -35,6 +35,42 @@
       <br/><br/>
       <a href="https://cursos.devtalles.com/certificates/xyfwmdfxit" target="_blank">
         <img src="./assets/images/nextjs.jpeg" width = 50px/>
+        <br />
+        <span>(Ver certificado)</span>
+      </a>
+    </td>
+    <td align="center">
+      <span>TypeScript</span>
+      <br/><br/>
+      <a href="https://cursos.devtalles.com/certificates/zqowpwnpdz" target="_blank">
+        <img src="./assets/images/ts.png" width = 50px/>
+        <br />
+        <span>(Ver certificado)</span>
+      </a>
+    </td>
+    <td align="center">
+      <span>NodeJS</span>
+      <br/><br/>
+      <a href="https://www.udemy.com/certificate/UC-a3f39d08-3261-47ec-8ebe-be60f15e9b48/" target="_blank">
+        <img src="./assets/images/nodejs.png" width = 50px/>
+        <br />
+        <span>(Ver certificado)</span>
+      </a>
+    </td>
+    <td align="center">
+      <span>AWS Serverless</span>
+      <br/><br/>
+      <a href="https://www.udemy.com/certificate/UC-a3f39d08-3261-47ec-8ebe-be60f15e9b48/" target="_blank">
+        <img src="./assets/images/aws.png" width = 50px/>
+        <br />
+        <span>(Ver certificado)</span>
+      </a>
+    </td>
+    <td align="center">
+      <span>Laravel</span>
+      <br/><br/>
+      <a href="#" target="_blank">
+        <img src="./assets/images/laravel.png" width = 50px/>
         <br />
         <span>(Ver certificado)</span>
       </a>
