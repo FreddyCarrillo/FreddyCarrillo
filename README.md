@@ -21,8 +21,9 @@
 
 <table>
   <tr>
-    <td>
+    <td style="text-align: center;">
       <img src="./assets/images/react.png" width = 50px/>
+      <br />
       <span>(Ver certificado)</span>
     <td>
   </tr>
