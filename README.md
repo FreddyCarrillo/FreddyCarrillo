@@ -1,1 +1,1 @@
-<a href="#"><img width="100%" height="auto" src="./assets/images/banner.png" height="175px"/></a>
+<a href="#"><img width="50%" height="auto" src="./assets/images/banner.png" height="55px"/></a>
