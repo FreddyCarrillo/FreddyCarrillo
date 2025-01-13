@@ -18,3 +18,12 @@
 <br>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Skills
+
+<table>
+  <tr>
+    <td>
+      <img src="./assets/images/react.png" width = 50px/>
+      <span>(Ver certificado)</span>
+    <td>
+  </tr>
+</table>
