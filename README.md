@@ -17,4 +17,4 @@
 - :computer: I love to continuously learn, develop impactful projects and share my knowledge with the community, whether developing educational projects or solving technical challenges.
 <br>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Skills
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Skills
