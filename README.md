@@ -21,7 +21,7 @@
 
 <table>
   <tr>
-    <td style="text-align: center;">
+    <td style="display:flex; justify-content:center; align-items:center; align-content: center;">
       <img src="./assets/images/react.png" width = 50px/>
       <br />
       <span>(Ver certificado)</span>
