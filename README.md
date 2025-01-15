@@ -92,3 +92,124 @@
 	<a href="mailto:freddycarrillotucto@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://wa.me/51976333995"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 </p>
+
+## 📺 Personal private projects
+
+<table>
+  <tbody>
+  <!-- YOUTUBE:START -->
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=nBSaJsp5abc">
+          <img width="140px" src="./assets/images/heavySystem.png">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.youtube.com/watch?v=nBSaJsp5abc">
+          Heavy Machinery Management System (Web & Mobile)
+        </a>
+        <br/>
+        (Constantly improving, private repository)
+      </td>
+    </tr>
+  <!-- YOUTUBE:END -->
+  </tbody>
+</table>
+
+## 📺 Challenges solved
+
+<table>
+  <tbody>
+  <!-- YOUTUBE:START -->
+    <tr>
+      <td>
+        <a href="https://rimac-challenge.asynclogic.net/">
+          <img width="140px" src="./assets/images/RimacChallenge.png">
+        </a>
+      </td>
+      <td>
+        <a href="https://rimac-challenge.asynclogic.net/">
+          Rimac Challenge (2024)
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/asyncLogicAdmin/RIMAC-CHALLENGE">
+          Repository
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=yWA9t5McHuo">
+          <img width="140px" src="./assets/images/RickAndMortyChallenge.png">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.youtube.com/watch?v=yWA9t5McHuo">
+          Rick and Morty Challenge (2021)
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/FreddyCarrillo/rickAndMorty">
+          Repository
+        </a>
+      </td>
+    </tr>
+  <!-- YOUTUBE:END -->
+  </tbody>
+</table>
+
+## 📺 Practical Classes: Discover the Projects I Teach
+
+<span>
+  <a href="https://gist.github.com/FreddyCarrillo/5cdc6d000cd41bb8e4ec2d6bf0f882fc">
+    Click here
+  </a>
+  to open the tutorials and recorded classes.
+</span>
+
+</br>
+<table>
+  <tbody>
+  <!-- YOUTUBE:START -->
+    <tr>
+      <td>
+        eLearning Educational Platform (2025)
+      </td>
+      <td align="center">
+        FE (ReactJS + TS)
+        <br/>
+        <a href="https://github.com/FreddyCarrillo/FE-ELEARNING">
+          Repository
+        </a>
+      </td>
+      <td align="center">
+        BE (NodeJS)
+        <br/>
+        <a href="https://github.com/FreddyCarrillo/BE-ELEARNING">
+          Repository
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Rental Services Control System (2025)
+      </td>
+      <td align="center">
+        FE (ReactJS + TS)
+        <br/>
+        <a href="https://github.com/FreddyCarrillo/FE-RENT-CONTROL">
+          Repository
+        </a>
+      </td>
+      <td align="center">
+        BE (NodeJS)
+        <br/>
+        <a href="https://github.com/FreddyCarrillo/BE-RENT-CONTROL">
+          Repository
+        </a>
+      </td>
+    </tr>
+  <!-- YOUTUBE:END -->
+  </tbody>
+</table>
