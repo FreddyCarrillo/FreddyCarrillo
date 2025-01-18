@@ -162,7 +162,7 @@
 ## 📺 Practical Classes: Discover the Projects I Teach
 
 <span>
-  <a href="https://gist.github.com/FreddyCarrillo/5cdc6d000cd41bb8e4ec2d6bf0f882fc">
+  <a href="https://gist.github.com/FreddyCarrillo/2bada6edf6799d46693d69b15a0f3f60">
     Click here
   </a>
   to open the tutorials and recorded classes.
