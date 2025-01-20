@@ -111,6 +111,20 @@
         <br/>
         (Constantly improving, private repository)
       </td>
+    </tr> 
+    <tr>
+      <td>
+        <a href="">
+          <img width="140px" src="">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/FreddyCarrillo/CORE-NODE-API">
+          Core Node API
+        </a>
+        <br/>
+        (Constantly improving, public repository)
+      </td>
     </tr>
   <!-- YOUTUBE:END -->
   </tbody>
