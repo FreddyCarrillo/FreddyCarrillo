@@ -93,7 +93,7 @@
 	<a href="https://wa.me/51976333995"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 </p>
 
-## 📺 Personal private projects
+## 📺 Private projects
 
 <table>
   <tbody>
