@@ -115,7 +115,7 @@
     <tr>
       <td>
         <a href="">
-          <img width="140px" src="">
+          <img width="140px" src="./assets/images/nodejsBackground.webp">
         </a>
       </td>
       <td>
