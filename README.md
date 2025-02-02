@@ -60,7 +60,7 @@
     <td align="center">
       <span>AWS Serverless</span>
       <br/><br/>
-      <a href="https://www.udemy.com/certificate/UC-a3f39d08-3261-47ec-8ebe-be60f15e9b48/" target="_blank">
+      <a href="https://cursos-dev.com/certificate/9YncXfSwCI" target="_blank">
         <img src="./assets/images/aws.png" width = 50px/>
         <br />
         <span>(Ver certificado)</span>
