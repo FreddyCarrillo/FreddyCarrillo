@@ -34,7 +34,7 @@
       <span>VueJS</span>
       <br/><br/>
       <a href="#" target="_blank">
-        <img src="./assets/images/vuejs.png" width = 50px/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width = 50px/>
         <br />
         <span>(Ver certificado)</span>
       </a>
