@@ -31,6 +31,15 @@
       </a>
     </td>
     <td align="center">
+      <span>VueJS</span>
+      <br/><br/>
+      <a href="#" target="_blank">
+        <img src="./assets/images/vuejs.png" width = 50px/>
+        <br />
+        <span>(Ver certificado)</span>
+      </a>
+    </td>
+    <td align="center">
       <span>NextJS</span>
       <br/><br/>
       <a href="https://cursos.devtalles.com/certificates/xyfwmdfxit" target="_blank">
